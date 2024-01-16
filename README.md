@@ -36,7 +36,7 @@
   </h2>
 
   <div>
-    <img src="[./assets/html.gif](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png)" width="50px" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png" width="50px" />
     
     <img src="./assets/css.gif" width="50px" />
     <img src="./assets/js.gif" width="50px" />
