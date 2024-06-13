@@ -60,7 +60,7 @@
         alt="twitter" />
     </a>
     <a
-      href="https://www.linkedin.com/in/ale-roses/"
+      href="https://www.linkedin.com/in/jostin-ortiz/"
       target="_blank">
       <img
         src="https://img.shields.io/badge/aleroses-black?style=social&logo=linkedin"
