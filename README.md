@@ -1,71 +1,52 @@
 <div>
+  <!-- Encabezado con animación de texto -->
   <div align="top">
-    <a href="https://git.io/typing-svg"
-      ><img
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=800&color=4F46E5&random=false&width=600&height=60&lines=Bienvenido!+Soy+Jostin+Ortiz;Soy+Tecnologo+en+Desarrollo+de+Software"
+    <a href="https://git.io/typing-svg">
+      <img
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=800&color=4F46E5&width=600&height=60&lines=Bienvenido!+Soy+Jostin+Ortiz;Tecnólogo+en+Desarrollo+de+Software;Explorando+el+Mundo+del+Backend"
         alt="Typing SVG"
-    /></a>
+      />
+    </a>
   </div>
 
+  <!-- Imagen llamativa al lado derecho -->
   <img
     align="right"
     width="260"
-    alt="Jostin Ortiz"
-    src="./assets/mf-heavy.gif" />
+    alt="Coding"
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+  />
 
+  <!-- Sobre mí -->
   <h2>
-    <picture
-      ><img src="./assets/about_me.gif" width="25px"
-    /></picture>
+    <picture>
+      <img src="https://media.giphy.com/media/j5o4CrBoF3sGR6OPOB/giphy.gif" width="25px" />
+    </picture>
     / Sobre mí /
   </h2>
-
   <ul>
-    <li>💻 Soy Tecnólogo en Desarrollo de Software.</li>
-    <li>👨‍👩‍👧‍👧 Me gusta el trabajo en equipo.</li>
+    <li>👨‍💻 Me gusta el trabajo en equipo.</li>
     <li>☕ Me gusta el café.</li>
-    <li>📚 Estoy aprendiendo para ser Backend.</li>
-    <li>💻 Mi lenguaje de programación favorito es PHP.</li>
+    <li>🚀 Estoy aprendiendo para ser backend.</li>
+    <li>💖 Mi lenguaje de programación favorito es PHP.</li>
   </ul>
 
+  <!-- Habilidades actuales -->
   <h2>
-    <picture
-      ><img src="./assets/skills.gif" width="25px"
-    /></picture>
+    <picture>
+      <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="25px" />
+    </picture>
     / Habilidades actuales /
   </h2>
-
   <div>
-    <img style="border: 1 solid"; src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png" width="50px" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width="50px" />
-    <img src="./assets/bootstrap.gif" width="50px" />
-    <img src="./assets/php.gif" width="50px" />
-    <img src="./assets/mysql.gif" width="50px" />
-    <img src="./assets/laravel.gif" width="50px" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" width="50px" alt="HTML5" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="50px" alt="CSS3" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="50px" alt="Bootstrap" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="50px" alt="PHP" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" width="60px" alt="MySQL" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="50px" alt="Laravel" />
   </div>
 
-  <!-- Se eliminó la sección "Cómo llegar a mí". -->
+  <!-- Estilo atractivo con animación -->
+
 </div>
-
-<style>
-  div {
-    transition: all 0.3s ease;
-  }
-  
-  div:hover {
-    transform: scale(1.02);
-  }
-
-  h2 {
-    color: #4F46E5;
-  }
-
-  ul {
-    list-style-type: none;
-    padding: 0;
-  }
-
-  li {
-    margin: 5px 0;
-  }
-</style>
